@@ -1,0 +1,48 @@
+<div class="tab-contents"id="skills">
+                        <ul>
+                            <li><span>I E S L</span><br>institutinal developer THE INSTITUTION OF ENGINEERS,SRI LANKA </li>
+                            <li><span>RDA</span><br> Supervisor work experience, Road Development Authority </li>
+                            <li><span>cybersecurity</span><br>ethical hacking</li>
+                            </ul>
+                    </div> 
+
+                    
+                    <div class="tab-contents">
+                        <ul>
+                            <li><span>2017-2022 </span><br>institutinal developer</li>
+                            <li><span>2023-2024</span><br>RDA 6m Supervisor work experience, </li>
+                            <li><span>cybersecurity</span><br>ethical hacking </li>
+                            </ul>
+                    </div> 
+
+                    
+                    <div class="tab-contents">
+                        <ul>
+                            <li><span>Ordinary Level</span><br>c6,s3 </li>
+                            <li><span>Advice Level</span><br> S3</li>
+                            <li><span>cybersecurity</span><br>ethical hacking try hack me ,hach the box</li>
+                            </ul>
+                    </div> 
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var tablinks = document.getElementsByClassName("tab-links")
+    var tabcontents = document.getElementsByClassName("tab-contents")
+
+    function opentab(tabname){
+        for(tablink of tablinks){
+            tablink.classlist.remove("active-link");
+        }
+        for(tabcontents of tabcontents){
+            .classlist.remove("active-link");
+        }
+    }
+</script>
+
+
+</body>   
+</html>
